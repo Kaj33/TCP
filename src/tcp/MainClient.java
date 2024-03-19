@@ -9,5 +9,7 @@ package tcp;
  * @author kaj33
  */
 public class MainClient {
-    
+    public static void main(String[] args) {
+        
+    }
 }
